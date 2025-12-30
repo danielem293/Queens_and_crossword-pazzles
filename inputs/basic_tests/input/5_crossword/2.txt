@@ -1,0 +1,14 @@
+2
+6
+4
+2 2 4 H
+0 0 4 V
+0 0 4 H
+2 2 4 V
+6
+BITE
+BALL
+BOWL
+BIKE
+BIND
+BAND

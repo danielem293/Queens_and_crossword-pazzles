@@ -1,0 +1,21 @@
+Choose an option:
+1. Robot Paths
+2. The Human Pyramid
+3. Parenthesis Validation
+4. Queens Battle
+5. Crossword Generator
+6. Exit
+Please enter the dimensions of the crossword grid:
+Please enter the number of slots in the crossword:
+Please enter the details for each slot (Row, Column, Length, Direction):
+Please enter the number of words in the dictionary:
+Please enter the words for the dictionary:
+This crossword cannot be solved.
+Choose an option:
+1. Robot Paths
+2. The Human Pyramid
+3. Parenthesis Validation
+4. Queens Battle
+5. Crossword Generator
+6. Exit
+Goodbye!

@@ -1,0 +1,13 @@
+5
+5
+4
+0 0 5 V
+0 0 5 H
+0 4 5 V
+4 0 5 H
+4 
+JOKER
+POKER
+TULIP
+WORLD
+6

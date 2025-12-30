@@ -1,0 +1,26 @@
+Choose an option:
+1. Robot Paths
+2. The Human Pyramid
+3. Parenthesis Validation
+4. Queens Battle
+5. Exit
+Please enter the board dimensions:
+Please enter a 10*10 puzzle board:
+Solution:
+* * * X * * * * * * 
+* * * * * * * * X * 
+X * * * * * * * * * 
+* * * * * * * * * X 
+* * X * * * * * * * 
+* * * * * X * * * * 
+* X * * * * * * * * 
+* * * * * * X * * * 
+* * * * X * * * * * 
+* * * * * * * X * * 
+Choose an option:
+1. Robot Paths
+2. The Human Pyramid
+3. Parenthesis Validation
+4. Queens Battle
+5. Exit
+Goodbye!

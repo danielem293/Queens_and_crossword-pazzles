@@ -1,0 +1,14 @@
+Please enter the dimensions of the crossword grid:
+Please enter the number of slots in the crossword:
+Please enter the details for each slot (Row, Column, Length, Direction):
+Please enter the number of words in the dictionary:
+The dictionary must contain at least 4 words. Please enter a valid dictionary size:
+Please enter the words for the dictionary:
+| B | O | W | L | # | # |
+| A | # | # | # | # | # |
+| L | # | B | I | T | E |
+| L | # | I | # | # | # |
+| # | # | K | # | # | # |
+| # | # | E | # | # | # |
+
+
